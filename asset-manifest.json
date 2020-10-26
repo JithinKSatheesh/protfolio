@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/protfolio/static/css/main.5948faf4.chunk.css",
-    "main.js": "/protfolio/static/js/main.9624f230.chunk.js",
-    "main.js.map": "/protfolio/static/js/main.9624f230.chunk.js.map",
+    "main.css": "/protfolio/static/css/main.40fc637e.chunk.css",
+    "main.js": "/protfolio/static/js/main.6d068092.chunk.js",
+    "main.js.map": "/protfolio/static/js/main.6d068092.chunk.js.map",
     "runtime-main.js": "/protfolio/static/js/runtime-main.015898f2.js",
     "runtime-main.js.map": "/protfolio/static/js/runtime-main.015898f2.js.map",
-    "static/js/2.90da02a0.chunk.js": "/protfolio/static/js/2.90da02a0.chunk.js",
-    "static/js/2.90da02a0.chunk.js.map": "/protfolio/static/js/2.90da02a0.chunk.js.map",
+    "static/js/2.7be5cec8.chunk.js": "/protfolio/static/js/2.7be5cec8.chunk.js",
+    "static/js/2.7be5cec8.chunk.js.map": "/protfolio/static/js/2.7be5cec8.chunk.js.map",
     "index.html": "/protfolio/index.html",
-    "precache-manifest.369d58acc1c109264430d32dca5ee889.js": "/protfolio/precache-manifest.369d58acc1c109264430d32dca5ee889.js",
+    "precache-manifest.58ee6285c9ae30aae4d3c55316ed23ae.js": "/protfolio/precache-manifest.58ee6285c9ae30aae4d3c55316ed23ae.js",
     "service-worker.js": "/protfolio/service-worker.js",
-    "static/css/main.5948faf4.chunk.css.map": "/protfolio/static/css/main.5948faf4.chunk.css.map",
-    "static/js/2.90da02a0.chunk.js.LICENSE.txt": "/protfolio/static/js/2.90da02a0.chunk.js.LICENSE.txt",
+    "static/css/main.40fc637e.chunk.css.map": "/protfolio/static/css/main.40fc637e.chunk.css.map",
+    "static/js/2.7be5cec8.chunk.js.LICENSE.txt": "/protfolio/static/js/2.7be5cec8.chunk.js.LICENSE.txt",
     "static/media/Iconcss.png": "/protfolio/static/media/Iconcss.a32f83aa.png",
     "static/media/Iconillustrator.png": "/protfolio/static/media/Iconillustrator.d9385765.png",
     "static/media/Iconjs.png": "/protfolio/static/media/Iconjs.e516e860.png",
@@ -27,12 +27,13 @@
     "static/media/mail.svg": "/protfolio/static/media/mail.69715ab3.svg",
     "static/media/phone.svg": "/protfolio/static/media/phone.6693d44f.svg",
     "static/media/project1.png": "/protfolio/static/media/project1.8ddad2cc.png",
+    "static/media/project_apple.png": "/protfolio/static/media/project_apple.bb9c70a7.png",
     "static/media/project_golden.png": "/protfolio/static/media/project_golden.e61d5651.png"
   },
   "entrypoints": [
     "static/js/runtime-main.015898f2.js",
-    "static/js/2.90da02a0.chunk.js",
-    "static/css/main.5948faf4.chunk.css",
-    "static/js/main.9624f230.chunk.js"
+    "static/js/2.7be5cec8.chunk.js",
+    "static/css/main.40fc637e.chunk.css",
+    "static/js/main.6d068092.chunk.js"
   ]
 }
